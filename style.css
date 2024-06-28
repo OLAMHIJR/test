@@ -1,0 +1,33 @@
+.one{
+    display: flex;
+    background-color: #C2E1FE;
+    padding-left: 20px;
+    border-top: 30px;
+}
+.navbar{
+    background-color:white;
+    padding-left:30px ;
+}
+.mx{
+    padding-left: 230px;
+}
+.d{
+    border: 20px solid white;
+    display: flex;
+    margin-left: 100px;
+    background-color: white;
+}
+.td{
+    display: flex;
+    padding-left: 20px;
+    border-top: 30px;
+    background-color: gray;
+}
+.m{
+    padding-left: 270px;
+}
+.p{
+    font-size: 40px;
+    margin-left: 30px;
+
+}
